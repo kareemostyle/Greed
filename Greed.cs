@@ -3,7 +3,7 @@
  * 
  * Produced by Kareem Taleb
  * 
- * GitHub Link: 
+ * GitHub Link: https://github.com/kareemostyle/Greed
  * 
  * IDE: Visual Studio
  * 
