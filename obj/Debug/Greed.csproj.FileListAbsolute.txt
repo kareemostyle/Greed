@@ -1,0 +1,7 @@
+C:\Users\Kareem Taleb\Desktop\Junior Year\Spring 2019\Internships\Greed\Greed\bin\Debug\Greed.exe.config
+C:\Users\Kareem Taleb\Desktop\Junior Year\Spring 2019\Internships\Greed\Greed\bin\Debug\Greed.exe
+C:\Users\Kareem Taleb\Desktop\Junior Year\Spring 2019\Internships\Greed\Greed\bin\Debug\Greed.pdb
+C:\Users\Kareem Taleb\Desktop\Junior Year\Spring 2019\Internships\Greed\Greed\obj\Debug\Greed.csprojAssemblyReference.cache
+C:\Users\Kareem Taleb\Desktop\Junior Year\Spring 2019\Internships\Greed\Greed\obj\Debug\Greed.csproj.CoreCompileInputs.cache
+C:\Users\Kareem Taleb\Desktop\Junior Year\Spring 2019\Internships\Greed\Greed\obj\Debug\Greed.exe
+C:\Users\Kareem Taleb\Desktop\Junior Year\Spring 2019\Internships\Greed\Greed\obj\Debug\Greed.pdb
